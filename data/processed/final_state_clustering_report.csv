@@ -1,0 +1,37 @@
+State_UT,Cluster,Anomaly,Anomaly_Score,Status
+Andhra Pradesh,3,1,0.0898265773072164,Normal
+Arunachal Pradesh,3,1,0.0902692666207708,Normal
+Assam,1,1,0.0816954206848808,Normal
+Bihar,3,1,0.0966779940853908,Normal
+Chhattisgarh,0,1,0.0645619055844245,Normal
+Goa,3,1,0.0605790788597264,Normal
+Gujarat,3,1,0.1496328273804859,Normal
+Haryana,1,-1,-0.0118315419065127,Anomaly
+Himachal Pradesh,3,1,0.1188442736516797,Normal
+Jharkhand,3,1,0.1075687034241069,Normal
+Karnataka,3,1,0.1341826245061023,Normal
+Kerala,3,1,0.091871837497387,Normal
+Madhya Pradesh,3,1,0.1217529261264137,Normal
+Maharashtra,3,1,0.124042160641263,Normal
+Manipur,3,1,0.0587812941614575,Normal
+Meghalaya,0,1,0.1045615647236979,Normal
+Mizoram,0,1,0.0505065560338682,Normal
+Nagaland,3,1,0.1114130685454933,Normal
+Odisha,2,-1,-0.0220907221059663,Anomaly
+Punjab,3,1,0.1449526598271897,Normal
+Rajasthan,1,1,0.0231243095719968,Normal
+Sikkim,0,1,0.1268308156841125,Normal
+Tamil Nadu,3,1,0.0989887517570959,Normal
+Telangana,2,1,0.0291075233663008,Normal
+Tripura,3,1,0.1119849542414571,Normal
+Uttar Pradesh,3,1,0.1361728392893267,Normal
+Uttarakhand,0,1,0.1171518506117585,Normal
+West Bengal,1,1,0.0118315419065127,Normal
+A&N Islands,0,-1,-0.0333639606142901,Anomaly
+Chandigarh,1,1,0.0167233707899184,Normal
+D&N Haveli and Daman & Diu,3,1,0.1461262438983223,Normal
+Delhi,2,-1,-0.0290524926040749,Anomaly
+Jammu & Kashmir,3,1,0.1324043494135603,Normal
+Ladakh,3,1,0.1132863405507542,Normal
+Lakshadweep,3,1,0.1023946099869869,Normal
+Puducherry,3,1,0.1425964113038536,Normal

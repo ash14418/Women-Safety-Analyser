@@ -1,0 +1,37 @@
+State_UT,Cluster,Status,Anomaly_Score
+Andhra Pradesh,3,Normal,0.0898265773072164
+Arunachal Pradesh,3,Normal,0.0902692666207708
+Assam,1,Normal,0.0816954206848808
+Bihar,3,Normal,0.0966779940853908
+Chhattisgarh,0,Normal,0.0645619055844245
+Goa,3,Normal,0.0605790788597264
+Gujarat,3,Normal,0.1496328273804859
+Haryana,1,Anomaly,-0.0118315419065127
+Himachal Pradesh,3,Normal,0.1188442736516797
+Jharkhand,3,Normal,0.1075687034241069
+Karnataka,3,Normal,0.1341826245061023
+Kerala,3,Normal,0.091871837497387
+Madhya Pradesh,3,Normal,0.1217529261264137
+Maharashtra,3,Normal,0.124042160641263
+Manipur,3,Normal,0.0587812941614575
+Meghalaya,0,Normal,0.1045615647236979
+Mizoram,0,Normal,0.0505065560338682
+Nagaland,3,Normal,0.1114130685454933
+Odisha,2,Anomaly,-0.0220907221059663
+Punjab,3,Normal,0.1449526598271897
+Rajasthan,1,Normal,0.0231243095719968
+Sikkim,0,Normal,0.1268308156841125
+Tamil Nadu,3,Normal,0.0989887517570959
+Telangana,2,Normal,0.0291075233663008
+Tripura,3,Normal,0.1119849542414571
+Uttar Pradesh,3,Normal,0.1361728392893267
+Uttarakhand,0,Normal,0.1171518506117585
+West Bengal,1,Normal,0.0118315419065127
+A&N Islands,0,Anomaly,-0.0333639606142901
+Chandigarh,1,Normal,0.0167233707899184
+D&N Haveli and Daman & Diu,3,Normal,0.1461262438983223
+Delhi,2,Anomaly,-0.0290524926040749
+Jammu & Kashmir,3,Normal,0.1324043494135603
+Ladakh,3,Normal,0.1132863405507542
+Lakshadweep,3,Normal,0.1023946099869869
+Puducherry,3,Normal,0.1425964113038536

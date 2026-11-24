@@ -1,0 +1,41 @@
+WOMEN SAFETY ANALYTICS - FINAL PROJECT SUMMARY
+=======================================================
+
+1. REGRESSION MODEL COMPARISON
+----------------------------------------
+            Model       MAE      RMSE       R2
+   Naive Baseline  7.293393 11.553271 0.891459
+Linear Regression  7.057990  8.298148 0.944005
+    Random Forest 14.066752 16.796418 0.770587
+Gradient Boosting 11.661966 12.910873 0.864451
+
+2. FINAL MODEL EVALUATION
+----------------------------------------
+  Metric     Value
+     MAE  7.057990
+     MSE 68.859266
+    RMSE  8.298148
+R2 Score  0.944005
+MAPE (%) 15.144948
+
+3. CLUSTERING SUMMARY
+----------------------------------------
+ Cluster  Total_States  Anomalies  Normal
+       0             6          1       5
+       1             5          1       4
+       2             3          2       1
+       3            22          0      22
+
+4. OVERALL FINDINGS
+----------------------------------------
+Total States/UTs Analysed: 36
+Total Clusters: 4
+Normal States/UTs: 32
+Anomalies Detected: 4
+
+5. CONCLUSION
+----------------------------------------
+Regression models were compared to predict crime rates.
+K-Means grouped states/UTs based on similar crime-rate patterns.
+Isolation Forest identified unusual crime-rate patterns.
+These results are exploratory and do not represent actual safety rankings or guarantees of individual safety.

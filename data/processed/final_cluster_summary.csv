@@ -1,0 +1,5 @@
+Cluster,Total_States,Normal_States,Anomalies,Average_Anomaly_Score,Anomaly_Percentage
+0,6,5,1,0.07170812200392858,16.67
+1,5,4,1,0.0243086202093592,20.0
+2,3,1,2,-0.007345230447913467,66.67
+3,22,22,0,0.11292499059436546,0.0
